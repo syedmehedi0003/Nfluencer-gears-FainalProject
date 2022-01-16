@@ -133,9 +133,14 @@
     
 
         footer{
-            width: 100%;
+            /* width: 500px; */
+            width: 897px;
             margin: 0 auto;
             margin-left: -37%;
+        }
+        
+        .footer-desc{
+            margin-left: 49%;
         }
         
         footer h3{
